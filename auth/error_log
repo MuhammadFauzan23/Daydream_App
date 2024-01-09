@@ -1,0 +1,525 @@
+[11-Jun-2023 09:53:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 21
+[11-Jun-2023 09:53:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 25
+[11-Jun-2023 09:54:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 20
+[11-Jun-2023 09:54:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 22
+[11-Jun-2023 09:54:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 20
+[11-Jun-2023 09:54:49 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 22
+[11-Jun-2023 09:56:02 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 20
+[11-Jun-2023 09:56:02 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logindaydream.php on line 22
+[11-Jun-2023 16:01:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[11-Jun-2023 16:01:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[11-Jun-2023 16:01:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[11-Jun-2023 16:01:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[11-Jun-2023 16:01:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[11-Jun-2023 16:01:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[11-Jun-2023 16:02:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[11-Jun-2023 16:02:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[11-Jun-2023 16:02:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[12-Jun-2023 01:45:56 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[12-Jun-2023 01:45:56 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[12-Jun-2023 01:45:56 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[12-Jun-2023 02:37:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[12-Jun-2023 02:37:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[12-Jun-2023 02:37:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[12-Jun-2023 03:29:55 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 8
+[12-Jun-2023 03:30:16 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 8
+[12-Jun-2023 03:30:30 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 8
+[12-Jun-2023 03:30:50 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 8
+[12-Jun-2023 03:31:39 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 8
+[12-Jun-2023 03:34:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[12-Jun-2023 03:34:45 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[12-Jun-2023 03:34:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[12-Jun-2023 08:58:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[12-Jun-2023 08:58:22 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[12-Jun-2023 08:58:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[14-Jun-2023 01:07:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[14-Jun-2023 01:07:50 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[14-Jun-2023 01:07:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[14-Jun-2023 04:19:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 27
+[14-Jun-2023 04:19:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 27
+[14-Jun-2023 04:21:00 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateprofile.php on line 8
+[14-Jun-2023 06:13:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[14-Jun-2023 06:13:18 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[14-Jun-2023 06:13:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[14-Jun-2023 06:14:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[14-Jun-2023 06:14:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[14-Jun-2023 06:14:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[14-Jun-2023 06:19:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[14-Jun-2023 06:19:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[14-Jun-2023 06:19:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[15-Jun-2023 03:11:10 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[15-Jun-2023 03:11:10 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[15-Jun-2023 03:11:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[15-Jun-2023 03:11:19 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[15-Jun-2023 03:11:19 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[15-Jun-2023 03:11:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 10:31:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 10:31:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 10:31:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 10:32:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 10:32:18 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 10:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 10:34:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 10:34:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 10:34:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 10:34:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 10:34:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 10:34:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 10:35:29 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 10:35:29 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 10:35:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 10:55:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 10:55:26 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 10:55:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 10:55:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 10:55:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 10:55:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 12:56:06 UTC] PHP Warning:  include(telegram): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 6
+[17-Jun-2023 12:56:06 UTC] PHP Warning:  include(): Failed opening 'telegram' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 6
+[17-Jun-2023 12:58:40 UTC] PHP Warning:  include(telegram): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 6
+[17-Jun-2023 12:58:40 UTC] PHP Warning:  include(): Failed opening 'telegram' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 6
+[17-Jun-2023 13:02:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 13:02:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 13:02:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 13:03:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[17-Jun-2023 13:03:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[17-Jun-2023 13:03:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[17-Jun-2023 13:12:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 39
+[17-Jun-2023 13:12:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 39
+[19-Jun-2023 12:56:41 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateprofile.php on line 8
+[19-Jun-2023 12:58:46 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[19-Jun-2023 12:58:46 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[19-Jun-2023 12:58:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[19-Jun-2023 12:59:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[19-Jun-2023 12:59:38 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[19-Jun-2023 12:59:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[19-Jun-2023 15:40:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 4
+[19-Jun-2023 15:40:39 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[19-Jun-2023 15:40:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[19-Jun-2023 15:40:39 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[19-Jun-2023 15:40:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php(6): mysqli_query(NULL, 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[19-Jun-2023 15:40:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 4
+[19-Jun-2023 15:40:50 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[19-Jun-2023 15:40:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[19-Jun-2023 15:40:50 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[19-Jun-2023 15:40:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php(6): mysqli_query(NULL, 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[19-Jun-2023 15:41:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[19-Jun-2023 15:41:41 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[19-Jun-2023 15:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[19-Jun-2023 15:41:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[19-Jun-2023 15:41:41 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 35
+[19-Jun-2023 15:41:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 42
+[19-Jun-2023 15:41:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[19-Jun-2023 15:41:57 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[19-Jun-2023 15:41:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[19-Jun-2023 15:41:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[19-Jun-2023 15:41:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 35
+[19-Jun-2023 15:41:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 42
+[19-Jun-2023 15:42:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[19-Jun-2023 15:42:24 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[19-Jun-2023 15:42:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[19-Jun-2023 15:42:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[19-Jun-2023 15:42:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[19-Jun-2023 15:42:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[21-Jun-2023 13:06:27 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 9
+[21-Jun-2023 13:06:27 UTC] PHP Warning:  Undefined array key "pass" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 11
+[21-Jun-2023 13:06:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 24
+[21-Jun-2023 14:48:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[21-Jun-2023 14:48:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[21-Jun-2023 14:48:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[21-Jun-2023 14:48:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[21-Jun-2023 14:48:05 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[21-Jun-2023 14:48:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[21-Jun-2023 14:48:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 24
+[21-Jun-2023 14:48:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[21-Jun-2023 14:48:34 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[21-Jun-2023 14:48:34 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[21-Jun-2023 14:48:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[21-Jun-2023 14:48:34 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[21-Jun-2023 14:48:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[21-Jun-2023 14:49:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[21-Jun-2023 14:49:59 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[21-Jun-2023 14:49:59 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[21-Jun-2023 14:49:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[21-Jun-2023 14:49:59 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[21-Jun-2023 14:49:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[23-Jun-2023 18:38:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[23-Jun-2023 18:38:39 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[23-Jun-2023 18:38:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[23-Jun-2023 18:38:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[23-Jun-2023 18:38:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[23-Jun-2023 18:38:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[23-Jun-2023 18:39:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[23-Jun-2023 18:39:17 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[23-Jun-2023 18:39:17 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[23-Jun-2023 18:39:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[23-Jun-2023 18:39:17 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[23-Jun-2023 18:39:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[23-Jun-2023 18:40:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[23-Jun-2023 18:40:00 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[23-Jun-2023 18:40:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[23-Jun-2023 18:40:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[23-Jun-2023 18:40:00 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[23-Jun-2023 18:40:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[24-Jun-2023 04:47:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[24-Jun-2023 04:47:40 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[24-Jun-2023 04:47:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[24-Jun-2023 04:47:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 31
+[24-Jun-2023 04:47:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 33
+[24-Jun-2023 04:47:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 40
+[24-Jun-2023 07:22:27 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:22:27 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:22:27 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:22:27 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:22:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:22:41 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:22:41 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:22:41 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:22:41 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:22:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:22:50 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:22:50 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:22:50 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:22:50 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:22:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:23:58 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:23:58 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:23:58 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:23:58 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:23:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:24:09 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:24:09 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:24:09 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:24:09 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:24:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:24:28 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:24:28 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:24:28 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:24:28 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:24:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:24:54 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:24:54 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:24:54 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:24:54 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:24:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:25:43 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:25:43 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:25:43 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:25:43 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:25:43 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:19 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:19 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:19 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:19 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:19 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:22 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:23 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:27:24 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:27:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:51:30 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:51:30 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:51:30 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:51:30 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:51:30 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:52:14 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:52:14 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:52:14 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:52:14 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:52:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:52:35 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:52:35 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:52:35 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:52:35 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:52:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:52:53 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:52:53 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:52:53 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:52:53 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:52:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:54:08 UTC] PHP Warning:  include(auth/koneksi.php): Failed to open stream: No such file or directory in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:54:08 UTC] PHP Warning:  include(): Failed opening 'auth/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 3
+[24-Jun-2023 07:54:08 UTC] PHP Warning:  Undefined array key "no_reff" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 6
+[24-Jun-2023 07:54:08 UTC] PHP Warning:  Undefined variable $koneksi in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 07:54:08 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php:8
+Stack trace:
+#0 /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php(8): mysqli_query(NULL, 'DELETE FROM aku...')
+#1 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/delete_akun.php on line 8
+[24-Jun-2023 08:49:31 UTC] PHP Parse error:  syntax error, unexpected variable "$login" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 30
+[24-Jun-2023 08:54:11 UTC] PHP Warning:  Undefined array key "user" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 27
+[24-Jun-2023 08:56:23 UTC] PHP Warning:  Undefined array key "name" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/updateuser.php on line 27
+[24-Jun-2023 09:03:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[24-Jun-2023 09:03:36 UTC] PHP Warning:  Undefined variable $_SESSION in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[24-Jun-2023 09:03:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 6
+[24-Jun-2023 09:03:36 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 27
+[24-Jun-2023 09:03:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 34
+[26-Jun-2023 08:24:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[26-Jun-2023 08:24:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[26-Jun-2023 08:24:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[02-Jul-2023 04:20:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 13
+[02-Jul-2023 04:21:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[02-Jul-2023 04:21:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[02-Jul-2023 04:21:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[02-Jul-2023 04:28:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[02-Jul-2023 04:28:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[02-Jul-2023 04:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[02-Jul-2023 04:28:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[02-Jul-2023 04:28:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[02-Jul-2023 04:28:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[02-Jul-2023 05:02:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[02-Jul-2023 05:02:40 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[02-Jul-2023 05:02:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[04-Jul-2023 05:21:37 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[04-Jul-2023 05:21:37 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[04-Jul-2023 05:21:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[04-Jul-2023 05:30:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[04-Jul-2023 05:30:39 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[04-Jul-2023 05:30:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 05:59:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 05:59:50 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 05:59:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:25:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:25:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:25:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:27:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:27:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:27:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:34:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:34:57 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:34:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:37:44 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:37:44 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:37:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:37:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:37:54 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:37:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:44:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:44:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:44:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:44:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:44:51 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:44:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:45:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:45:08 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:45:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:45:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:45:24 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 7
+[05-Jul-2023 06:45:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 14
+[05-Jul-2023 06:49:01 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[05-Jul-2023 06:49:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:49:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[05-Jul-2023 06:49:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 3
+[05-Jul-2023 06:49:12 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 5
+[05-Jul-2023 06:49:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:1) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 12
+[05-Jul-2023 06:52:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 06:57:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 13
+[05-Jul-2023 07:00:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 07:01:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 07:03:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 07:03:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 07:03:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 07:13:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 09:00:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 09:01:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 09:03:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 09:06:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 16:59:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 13
+[05-Jul-2023 16:59:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 17:02:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[05-Jul-2023 17:06:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[10-Jul-2023 17:33:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[10-Jul-2023 17:59:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 00:22:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 00:23:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 00:24:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 00:24:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 00:25:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 00:32:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 01:46:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 03:49:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 03:50:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 04:19:30 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[11-Jul-2023 10:34:48 UTC] PHP Warning:  Undefined array key "tanggal" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 6
+[11-Jul-2023 10:34:48 UTC] PHP Warning:  Undefined variable $connection in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 20
+[11-Jul-2023 10:34:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 20
+[11-Jul-2023 10:36:52 UTC] PHP Warning:  Undefined array key "tanggal" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 6
+[11-Jul-2023 10:36:52 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 23
+[11-Jul-2023 10:37:04 UTC] PHP Warning:  Undefined array key "tanggal" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 6
+[11-Jul-2023 10:37:04 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 23
+[11-Jul-2023 10:42:19 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 23
+[11-Jul-2023 10:43:36 UTC] PHP Warning:  Undefined array key "tanggal" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 6
+[11-Jul-2023 10:43:36 UTC] PHP Warning:  Attempt to read property "num_rows" on bool in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_searching.php on line 23
+[11-Jul-2023 15:47:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 12:49:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 12:50:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 12:51:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 12:52:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 12:56:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 12:57:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 15:25:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 15:25:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[12-Jul-2023 19:45:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[13-Jul-2023 04:55:43 UTC] PHP Warning:  Undefined array key "username" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 5
+[13-Jul-2023 04:55:43 UTC] PHP Warning:  Undefined array key "pass" in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 6
+[13-Jul-2023 04:55:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/proses_login.php on line 13
+[14-Jul-2023 03:36:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 03:43:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 04:01:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 04:03:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 04:07:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 15:35:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 16:12:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 16:30:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[14-Jul-2023 16:57:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[15-Jul-2023 12:36:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[16-Jul-2023 05:50:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
+[16-Jul-2023 08:47:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php:6) in /home/arif2174/public_html/project.arinielwebsite.my.id/auth/logout.php on line 11
