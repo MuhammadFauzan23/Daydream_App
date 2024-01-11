@@ -15,3 +15,4 @@ Fitur-fitur pada aplikasi ini :
 6. Cetak laporan.
 7. CRUD data karyawan
 8. Update data diri user.
+9. Integrasi Notifikasi telegran bahwa user sedang login.
